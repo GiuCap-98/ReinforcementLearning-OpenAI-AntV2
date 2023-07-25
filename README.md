@@ -3,7 +3,9 @@ Benchmark di algoritmi di RL per addestramento di AntV2
 
 Progetto valido per il corso di Fondamenti di Intelligenza Artificiale (A.A. 2021/2022) presso l'Università degli Studi di Verona
 
-Obiettivo del progetto è stato quello di approfondire la tematica del reinforcement learning, approfondendo alcuni algoritmi in particolare:
+Obiettivo del progetto è stato quello di approfondire la tematica del reinforcement learning andando ad utilizzare differenti algoritmi, confrontandone le prestazioni, per addestrare AntV2 del phisics engine MuJoCo, tramite la libreria OpenAI.
+
+In particolare sono stato approfonditi i seguenti algoritmi: PPO, TD3 e SAC:
 
 - Proximal Policy Optimization (PPO): Si basa sull’idea di effettuare il miglior aggiornamento dei parametri della policy possibile in modo che la 
 nuova policy non differisca troppo dalla policy precedente
