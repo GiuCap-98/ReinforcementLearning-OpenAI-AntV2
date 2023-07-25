@@ -15,6 +15,3 @@ inizia a sovrastimare notevolmente i valori Q, il che porta ad errori nelle poli
 usati gli errori nella funzione Q), andando ad imparare due Q-Function, ed utilizzando la più piccola per aggiornare il target, a loro volta i sample delle Q-Function vengono aggiornate in base al target.
 
 - Soft Actor Critic (SAC): L’idea dietro SAC è che non cerca solo di massimizzare i reward, ma anche l’entropia della policy.
-
-
-
